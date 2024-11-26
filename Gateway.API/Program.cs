@@ -1,5 +1,5 @@
-using Gateway.API;
 using Gateway.API.Configs;
+using Gateway.API.Extensions;
 using IdentityModel.Client;
 using Microsoft.Extensions.Options;
 using Swashbuckle.AspNetCore.SwaggerGen;

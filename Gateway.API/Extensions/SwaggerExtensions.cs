@@ -3,7 +3,7 @@ using Swashbuckle.AspNetCore.SwaggerGen;
 using Swashbuckle.AspNetCore.SwaggerUI;
 using Yarp.ReverseProxy.Swagger;
 
-namespace Gateway.API;
+namespace Gateway.API.Extensions;
 
 public static class SwaggerExtensions
 {

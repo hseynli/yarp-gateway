@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Options;
+﻿using Gateway.API.Extensions;
+using Microsoft.Extensions.Options;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using Yarp.ReverseProxy.Swagger;
 
